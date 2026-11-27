@@ -22,6 +22,10 @@ file_upload.send_keys(r"D:\selenium in class\login.png")
 
 
 
+
+
+
+
 time.sleep(2)
 
 driver.quit()
